@@ -60,7 +60,7 @@ Qualquer dúvida, procure a monitoria. Lembre-se que você pode consultar nosso 
 1. Clone o repositório
   * `git clone git@github.com:Lenakirara/Vocabulary_Booster.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-011-mysql-vocabulary-booster`
+    * `cd Vocabulary_Booster`
 
 2. Instale as dependências
   * `npm i` ou `npm install`
